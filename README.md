@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**AndyDev25/AndyDev25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/AndyDev25">
+    <img src="https://github-readme-stats.vercel.app/api?username=AndyDev25&custom_title=General%20GitHub%20Stats&theme=aura_dark" alt="General GitHub Stats">
+  </a>
+</p>
+<p align="center" href="https://github.com/AndyDev25">
+  <a href="https://github.com/AndyDev25">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AndyDev25&hide_progress=true&custom_title=Active%20Code%20Time%20For%20Last%20Week&theme=aura_dark" alt="Active code time for last week">
+  </a>
+</p>
