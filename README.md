@@ -3,6 +3,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyDevv&layout=compact&theme=nightowl" alt="Top langs" />
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndyDev25)](https://github.com/anuraghazra/github-readme-stats)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndyDev25)]
   
 </p>
